@@ -77,16 +77,45 @@ _**IMAGES**_
 
 ![Login](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/c96bdfe0-8f03-4ef5-b964-0b18976fd945)
 
-
 **2) LOGOUT**
 
 ![logout](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/827f9e8c-e87e-4bc0-a68f-e93150f8ba66)
 
-**3) BANL CREATION**
+**3) BANK CREATION**
 
 ![bankcreation](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/a7dfe5bc-8e2d-4c8f-9bbf-77b407aabb30)
 
+**4) CREATE CUSTOMER**
 
+![customerAdd](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/addf6f3f-ef3f-4bb9-ba4f-a576ddfa8846)
+
+**5) DISPLAY CUSTOMER**
+
+![displayallcustomer](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/e9d997e9-af6f-466e-b389-bb7c8e2d40a6)
+
+**6) SEARCH CUSTOMER**
+
+![searchCustomer](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/23d058b8-b750-4fd3-bbb6-929ce410d6f3)
+
+**7) DELETE CUSTOMER**
+
+![deletecustomer](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/268a753c-5ca9-41a4-96a7-fe63035c875c)
+
+**8) MANAGE TRANSACTION**
+
+![ManageingTransaction](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/912b0b70-528e-47d8-88ce-2f9bd452dee3)
+
+**9) DEPOSIT MONEY**
+
+![moneydeposit](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/ab310684-3470-4e2a-aae1-1ec3bee2a230)
+
+**10) WITHDRAW MONEY**
+
+![withdraw](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/7b7f05e4-ec85-45d7-869b-61ce08bb5820)
+
+**11) EXIT**
+
+![Exit](https://github.com/saravanan2047/Bank_Management_System/assets/95707512/1d8ac5a6-06f7-44d4-9adb-52856b4c69a2)
 
 
 **_Contributions_**
