@@ -1,5 +1,5 @@
-**BANK MANAGEMENT SYSTEM
-**
+**BANK MANAGEMENT SYSTEM**
+
 
 **_Overview_**
 
