@@ -4,8 +4,11 @@ The Bank Management System is a Java application designed to manage basic bankin
 
 _Features_
 Account Creation: Users can create new bank accounts with unique account numbers.
+
 Deposit and Withdrawal: Users can deposit and withdraw funds from their accounts.
+
 Balance Inquiry: Users can check the balance of their accounts.
+
 Account Details: Users can view the details of their accounts, including transaction history.
 
 **How to Run**
