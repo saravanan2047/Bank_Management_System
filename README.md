@@ -1,10 +1,10 @@
 **Bank Management System**
 
-_Overview_
+**_Overview_**
 
 The Bank Management System is a Java application designed to manage basic banking operations. This program allows users to create and manage bank accounts, perform transactions, and view account details.
 
-_Features_
+**_Features_**
 
 _Account Creation:_ Users can create new bank accounts with unique account numbers.
 
@@ -28,29 +28,35 @@ Copy code
 java BankManagementSystem
 
 
-_Usage_
+**_Usage_**
 
 _Create an Account:_ Follow the prompts to enter account details such as account number, account holder's name, and initial deposit.
+
 Deposit Funds: Select the deposit option and enter the amount to deposit into the account.
+
 Withdraw Funds: Select the withdrawal option and enter the amount to withdraw from the account.
+
 Check Balance: Select the balance inquiry option to view the current balance of the account.
+
 View Account Details: Select the option to view all details of the account, including the transaction history.
 
-_Code Structure_
+**_Code Structure_**
 
 BankManagementSystem.java: The main file containing the implementation of the banking operations.
+
 Account Class: Manages individual account information and transactions.
+
 BankManagementSystem Class: Handles user interaction and overall system operations.
 
-_Requirements_
+**_Requirements_**
 
 Java Development Kit (JDK): Ensure that JDK is installed on your system to compile and run the program.
 
-_Contributions_
+**_Contributions_**
 
 Feel free to contribute to the project by forking the repository and submitting pull requests. For major changes, please open an issue to discuss what you would like to change.
 
-_License_
+**_License_**
 
 This project is open-source and available under the MIT License.
 
